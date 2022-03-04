@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7ef3509114c95a84e95b2534aea93d5f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: BareunDotum
+  fontNames:
+  - BareunDotum
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 47a47bb076ea0fe49aa967baafc81618, type: 3}
+  - {fileID: 12800000, guid: 84ff42a374664a14395943abc002f8dd, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Sprite Atlas 1
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 4096
+      textureCompression: 0
+      filterMode: 0
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 4096
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 0
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+    variantMultiplier: 1
+    packables:
+    - {fileID: 2800000, guid: 24770088dedc9e84b97afaa1c612d506, type: 3}
+    - {fileID: 2800000, guid: b9b251b11048f164ea90b473fb0c30a7, type: 3}
+    - {fileID: 2800000, guid: b31691d3d5864f84c827464c00889131, type: 3}
+    - {fileID: 2800000, guid: f6c4ca2fb4ad1f84bb5c6ed4c9f43257, type: 3}
+    - {fileID: 2800000, guid: d0166fdb92113ad4fb713bd6196cd783, type: 3}
+    - {fileID: 2800000, guid: a9379ad2c8bd5b44cbffffceb59b0fb4, type: 3}
+    totalSpriteSurfaceArea: 6477426
+    bindAsDefault: 1
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b9b251b11048f164ea90b473fb0c30a7, type: 3}
+  - {fileID: 21300000, guid: a9379ad2c8bd5b44cbffffceb59b0fb4, type: 3}
+  - {fileID: 21300000, guid: b31691d3d5864f84c827464c00889131, type: 3}
+  - {fileID: 21300000, guid: 24770088dedc9e84b97afaa1c612d506, type: 3}
+  - {fileID: 21300000, guid: d0166fdb92113ad4fb713bd6196cd783, type: 3}
+  - {fileID: 21300000, guid: f6c4ca2fb4ad1f84bb5c6ed4c9f43257, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - mask-1
+  - UnityMask
+  - mask-2
+  - SkyTileSprite
+  - CityNight
+  - CityDay
+  m_Tag: Sprite Atlas 1
+  m_IsVariant: 0
